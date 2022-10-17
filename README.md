@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm YORNG TONGHY</h1>
 <h3 align="center">A frontend developer</h3>
-<img src="https://blog.keliweb.it/wp-content/uploads/2019/08/webdeveloper.jpg" alt="" width="400px">
+<img src="https://blog.keliweb.it/wp-content/uploads/2019/08/webdeveloper.jpg" alt="" width="200px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonghy123&label=Profile%20views&color=0e75b6&style=flat" alt="tonghy123" /> </p>
 
