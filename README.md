@@ -2,6 +2,7 @@
 <h3 align="center">A frontend developer</h3>
 <img src="https://richestsoft.com/blog/wp-content/uploads/2019/05/Web-Development.jpeg" alt="" width="800px" style="border:2px solid;">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonghy123&label=Profile%20views&color=0e75b6&style=flat" alt="tonghy123" /> </p>
 
 - 🔭 I’m currently working on **E-robot-web**
@@ -10,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yorng tonghy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yorng tonghy" height="30" width="40" /></a>
-<a href="https://fb.com/tong hy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tong hy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yorng-tonghy-1158a8240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yorng tonghy" height="30" width="40" /></a>
+<a href="https://web.facebook.com/tong.hy.39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tong hy" height="30" width="40" /></a>
 <a href="https://instagram.com/tong.hy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tong.hy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yorng tonghy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yorng tonghy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC2-OFrFvPFRUopA_jnNruNg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yorng tonghy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
