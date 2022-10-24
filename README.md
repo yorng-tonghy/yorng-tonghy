@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm YORNG TONGHY</h1>
-<h3 align="center">A frontend developer</h3>
+
 <img src="https://richestsoft.com/blog/wp-content/uploads/2019/05/Web-Development.jpeg" alt="" width="800px" style="border:2px solid;">
 
 
