@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm YORNG TONGHY</h1>
 
-<img src="https://richestsoft.com/blog/wp-content/uploads/2019/05/Web-Development.jpeg" alt="" width="800px" style="border:2px solid;">
+<!-- <img src="https://richestsoft.com/blog/wp-content/uploads/2019/05/Web-Development.jpeg" alt="" width="800px" style="border:2px solid;"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonghy123&label=Profile%20views&color=0e75b6&style=flat" alt="tonghy123" /> </p>
