@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonghy123&label=Profile%20views&color=0e75b6&style=flat" alt="tonghy123" /> </p>
 
-- 🔭 I’m currently working on **E-robot-web ; ITC **
+- 🔭 I’m currently working on **E-robot-web, ITC **
 
 - 🌱 I’m currently learning **Vuejs , Node , Spring**
 
